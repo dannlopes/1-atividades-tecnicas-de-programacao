@@ -1,4 +1,4 @@
-# 1-atividades-tecnicas-de-programacao
+# Atividades Notebooks Tecnicas de Programacao
 # Atividades - Técnicas de Desenvolvimento de Algoritmo
 
 Repositório destinado à entrega das atividades práticas (Avaliação A2) da disciplina de Técnicas de Desenvolvimento de Algoritmo.
