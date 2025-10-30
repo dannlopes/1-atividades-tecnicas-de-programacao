@@ -7,7 +7,7 @@ Repositório destinado à entrega das atividades práticas (Avaliação A2) da d
 
 * **Aluno:** DANIEL LOPES AGUIAR
 * **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
-* **Professor(a):** [Nome do seu Professor ou Professora]
+* **Professor(a):** [Kadidja Valeria Reginaldo de Oliveira]
 
 ---
 
@@ -15,13 +15,13 @@ Repositório destinado à entrega das atividades práticas (Avaliação A2) da d
 
 Este repositório contém as seguintes atividades:
 
-1.  **`1_notebook_python_atividades_tecnicas_de_programacao.ipynb`**
-    * Lista de Atividades 1 (Exercícios Básicos de Python)
-    * Lista de Atividades 2 (Estruturas Condicionais)
-    * Lista de Atividades 3 (Laços de Repetição `while`)
+1.  **`1_notebook_python_atividades_tecnicas_de_programacao.ipynb`**    
+      Lista Exercicio 1 Python
+      Lista Exercicio 2 Python
+      Lista Exercicio 3 Python    
 
-2.  **[Nome da Atividade 2]**
-    * (Em breve)
+2.  **`2_notebook_Aplicacoes_ListaTuplasDicionarios_ProgramacaoPython_ADS.ipynb`**
+    * Aplicações com Lista, Tuplas e Dicionarios
 
-3.  **[Nome da Atividade 3]**
-    * (Em breve)
+3.  **`3_notebook_mini_projetos.ipynb`**
+    * Aplicacoes MiniProjetos
